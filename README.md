@@ -1,4 +1,4 @@
-# TrainableQuantumConvolution
+# Trainable Quantum Convolution (aka Quanvolutions)
 
 **Authors**
   * Denny Mattern (denny.mattern@fokus.fraunhofer.de)
