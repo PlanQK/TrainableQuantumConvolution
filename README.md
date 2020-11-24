@@ -9,7 +9,7 @@
 
 **Affiliation**
 
-Fraunhofer Institute for Open Communication Systems (Fraunhofer FOKUS) [1]. This demo results from our research as part of the PlanQK consortium [2].
+Data Analytics Center at Fraunhofer Institute for Open Communication Systems (Fraunhofer FOKUS) [1]. This demo results from our research as part of the PlanQK consortium [2].
 
 
 **Abstract**
@@ -27,7 +27,7 @@ We find that due to the randomized circuits training process is challenging and 
 3. If the quantum circuit is useful, what kinds of circuit architectures perform best?
 
 
-[1] https://www.fokus.fraunhofer.de.
+[1] https://www.fokus.fraunhofer.de and https://www.data-analytics-center.org/.
 
 [2] https://www.planqk.de.
 
