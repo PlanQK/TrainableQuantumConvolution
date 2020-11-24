@@ -27,7 +27,7 @@ We find that due to the randomized circuits training process is challenging and 
 3. If the quantum circuit is useful, what kinds of circuit architectures perform best?
 
 
-[1] https://www.fokus.fraunhofer.de and https://www.data-analytics-center.org/.
+[1] https://www.fokus.fraunhofer.de and https://www.data-analytics-center.org.
 
 [2] https://www.planqk.de.
 
